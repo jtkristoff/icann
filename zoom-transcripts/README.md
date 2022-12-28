@@ -2,7 +2,7 @@
 
 Code developed on Debian 11.  Prerequisites:
 * pip3 install --user webvtt-py
-* pip3 install --user 
+* pip3 install --user python-docx
 
 VTT References:
 * https://www.w3.org/TR/webvtt1/
